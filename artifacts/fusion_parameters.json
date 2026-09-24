@@ -1,0 +1,36 @@
+{
+  "scalers": {
+    "whole": {
+      "median": 0.7099781036376953,
+      "iqr": 0.03873148560523987,
+      "q25": 0.692356750369072,
+      "q75": 0.7310882359743118
+    },
+    "native": {
+      "median": 0.6098722815513611,
+      "iqr": 0.06473328173160553,
+      "q25": 0.5877022743225098,
+      "q75": 0.6524355560541153
+    }
+  },
+  "thresholds": {
+    "whole": 0.7469689249992371,
+    "native": 0.718547523021698,
+    "fusion": 1.678815573122366
+  },
+  "original_thresholds": {
+    "whole": 0.7477618455886841,
+    "native": 0.7125820517539978
+  },
+  "target_bpcer": 0.05,
+  "rule": "maximum",
+  "normalisation_images": 100,
+  "threshold_images": 100,
+  "threshold_rank": 96,
+  "split_seed": 42,
+  "calibration_rejection_rates": {
+    "whole": 0.04,
+    "native": 0.04,
+    "fusion": 0.04
+  }
+}

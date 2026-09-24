@@ -1,0 +1,12 @@
+*
+!Dockerfile
+!requirements.txt
+!requirements-torch.txt
+!infer.py
+!pad/
+!pad/*.py
+!artifacts/
+!artifacts/fusion_model.pt
+!artifacts/fusion_parameters.json
+!artifacts/model_info.json
+!constraints.txt
