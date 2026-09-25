@@ -1,4 +1,3 @@
-"""Inference recipe copied from the evaluated fusion notebook; no weight download."""
 from pathlib import Path
 import math
 import numpy as np
